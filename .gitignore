@@ -2,3 +2,5 @@ data-siames
 dog-images
 test-data
 training_checkpoints
+*.h5
+*.keras
